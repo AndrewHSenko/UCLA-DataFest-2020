@@ -1,0 +1,7 @@
+chld_code	chld_text
+00	N/A
+01	With own children under 18
+02	With own children 6 to 17, none younger
+03	With own children under 6
+04	With own children under 3
+05	With no own children under 18

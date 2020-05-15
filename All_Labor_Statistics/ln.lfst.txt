@@ -1,0 +1,52 @@
+lfst_code	lfst_text
+00	Civilian noninstitutional population
+10	Civilian labor force
+11	Full time labor force (includes persons working part time for economic reasons, both usually work fu
+12	Part time labor force (excludes persons working part time for economic reasons)
+13	Civilian labor force participation rate
+14	Percent of labor force time lost
+15	Experienced labor force
+16	Civilian Labor Force plus discouraged workers
+17	Civilian Labor Force plus marginally attached workers
+20	Employed
+21	Employed full time (includes persons working part time for economic reasons)
+22	Employed part time (by economic/noneconomic reason)
+23	Employment-population ratio
+24	Employed part time (involuntary)
+25	Employed full time (persons who usually work 35 hours or more)
+26	Employed part time (persons who usually work less than 35 hours)
+27	Aggregated totals employed
+28	Employment-population ratio (Full-time Workers)
+29	Employment-population ratio (Part-time Workers)
+30	Unemployed
+31	Unemployed looking for full-time work
+32	Unemployed looking for part-time work
+33	Aggregated totals unemployed
+34	Unemployed plus discouraged workers
+35	Unemployed plus marginally attached workers
+36	Unemployed plus marginally attached workers plus employed part time for economic reasons
+40	Unemployment rate
+41	Unemployment rate of the full-time labor force
+42	Unemployment rate of the part-time labor force
+50	Not in labor force
+60	Adjusted employment (CPS employment adjusted to CES concepts)
+70	Labor Force Flows Employed to Employed
+71	Labor Force Flows Unemployed to Employed
+72	Labor Force Flows Not in Labor Force to Employed
+73	Marginal Inflows to Employed
+74	Labor Force Flows Employed to Unemployed
+75	Labor Force Flows Unemployed to Unemployed
+76	Labor Force Flows Not in Labor Force to Unemployed
+77	Marginal Inflows to Unemployed
+78	Labor Force Flows Employed to Not in Labor Force
+79	Labor Force Flows Unemployed to Not in Labor Force
+80	Labor Force Flows Not in Labor Force to Not in Labor Force
+81	Marginal Inflows to Not in Labor Force
+82	Employed to other Marginal Outflows
+83	Unemployed to other Marginal Outflows
+84	Not in Labor Force to other Marginal Outflows
+85	Total other Marginal Outflows
+86	Total Employed in previous month
+87	Total Unemployed in previous month
+88	Total Not in Labor Force in previous month
+89	Total Marginal Inflows

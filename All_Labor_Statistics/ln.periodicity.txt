@@ -1,0 +1,4 @@
+periodicity_code	periodicity_text
+A	Annual
+M	Monthly
+Q	Quarterly

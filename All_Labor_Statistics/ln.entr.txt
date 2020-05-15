@@ -1,0 +1,4 @@
+entr_code	entr_text
+0	N/A
+1	Reentrants
+2	New entrants

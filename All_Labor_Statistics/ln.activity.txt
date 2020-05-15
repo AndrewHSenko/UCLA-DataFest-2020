@@ -1,0 +1,8 @@
+activity_code	activity_text
+0	N/A
+3	Enrolled in School
+4	Enrolled in High School
+5	Enrolled in College
+6	Enrolled in College Full-time
+7	Enrolled in College Part-time
+8	Not Enrolled

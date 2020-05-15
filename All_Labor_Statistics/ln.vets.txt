@@ -1,0 +1,9 @@
+vets_code	vets_text
+00	N/A
+01	Veteran
+03	World War II or Korean War or Vietnam Era
+09	Gulf War Era
+12	Veterans who served in Gulf War Era 2 (whether or not they served in Era 1)
+13	Veterans who served in Gulf War Era 1 but not Gulf War Era 2
+16	Other Service Periods (may include peacetime)
+25	Nonveteran

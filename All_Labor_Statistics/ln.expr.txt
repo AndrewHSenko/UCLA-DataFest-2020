@@ -1,0 +1,4 @@
+expr_code	expr_text
+0	N/A
+1	Experienced
+2	No previous work experience

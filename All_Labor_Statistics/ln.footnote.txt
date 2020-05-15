@@ -1,0 +1,8 @@
+footnote_code	footnote_text
+1	Data affected by changes in population controls.
+2	Constructed on the 2002 Census Industry Classification from data originally coded on earlier classifications. Official series was not revised.
+3	2000 forward coded on the 2002 Census Occupation Classification. 1983-99 constructed from data originally coded on earlier classifications.
+4	2000 forward coded on the 2002 Census Industry Classification. 1983-99 constructed from data originally coded on earlier classifications.
+7	Data do not meet publication criteria.
+8	This series id code has been discontinued; data are available using the database tool at www.bls.gov/webapps/legacy/cpsatab8.htm.
+9	Data from 1994 through 2002 were revised in February 2014 with updated seasonal adjustments.

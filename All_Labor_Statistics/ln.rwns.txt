@@ -1,0 +1,28 @@
+rwns_code	rwns_text
+00	N/A
+01	Economic reasons
+02	Slack work
+03	Material shortage
+04	Plant or machine repair
+05	Job started during week
+06	Job terminated during week
+07	Could only find part time work
+08	Other economic reasons (than 2 through 7)
+09	Material shortages and repairs to plant and equipment
+10	Noneconomic reasons
+11	Labor dispute
+12	Holiday (legal or religious)
+13	Bad weather
+14	Illness
+15	Vacation
+16	Personal reasons (business, home or school)
+17	Do not want, or unavailable for, full time work
+18	Full-time work week under 35 hours
+30	Child-care problems
+31	In school or training
+32	Retired or social security limit on earnings
+33	Other family or personal obligations
+34	Health or medical limitations
+35	All other reasons (than 12-15 and 30-33)
+40	Seasonal work (economic reason)
+41	Job started or ended during the week (economic reason)

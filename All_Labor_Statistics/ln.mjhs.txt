@@ -1,0 +1,7 @@
+mjhs_code	mjhs_text
+00	N/A
+01	Multiple job holders
+02	Multiple job holders, primary job full time, secondary job part time
+03	Multiple job holders, primary and secondary job both part time
+04	Multiple job holders, primary and secondary job both full time
+05	Multiple job holders, hours vary on primary or secondary job

@@ -1,0 +1,12 @@
+rnlf_code	rnlf_text
+00	N/A
+60	Did not search for work in previous year
+61	Searched for work in previous year - Total
+62	Searched for work in previous year - Not available to work now
+63	Searched for work in previous year - Available to work now (Marginally attached)
+64	Discouragement over job prospects (believes no job is available)
+65	Reasons other than discouragement - Total
+66	Reasons other than discouragement - Family responsibilities
+67	Reasons other than discouragement - In school or training
+68	Reasons other than discouragement - Ill health or disability
+69	Reasons other than discouragement - Other (child care, transportation problems, other reasons)

@@ -1,0 +1,14 @@
+born_code	born_text
+00	N/A
+01	Native born
+02	Foreign born
+03	Citizen
+04	Non-citizen (Year of Entry)
+05	Before 1965
+06	1965-74
+07	1975-84
+08	1985-89
+09	1990-94
+10	1995-99
+11	2000-04
+12	2005

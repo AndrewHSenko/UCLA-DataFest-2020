@@ -1,0 +1,14 @@
+hour_code	hour_text
+00	N/A
+01	1 to 34 hours
+02	1 to 4 hours
+06	5 to 14 hours
+10	15 to 29 hours
+14	30 to 34 hours
+16	35 hours and over
+17	35 to 39 hours
+20	40 hours
+21	41 hours and over
+23	41 to 48 hours
+27	49 to 59 hours
+29	60 hours and over

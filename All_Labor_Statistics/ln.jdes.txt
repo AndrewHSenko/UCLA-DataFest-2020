@@ -1,0 +1,4 @@
+jdes_code	jdes_text
+0	N/A
+1	Want a job now
+2	Don't want a job now

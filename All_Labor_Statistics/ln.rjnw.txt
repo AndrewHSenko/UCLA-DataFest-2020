@@ -1,0 +1,12 @@
+rjnw_code	rjnw_text
+00	N/A
+01	Own illness
+02	Vacation
+03	Bad weather
+04	Labor dispute
+05	Other reasons (than 1- 2, 3, and 6)
+06	Bad weather, industrial dispute, and all other reasons
+07	Other reasons (than 1 and 2)
+08	Child care problems, maternity/paternity leave, or other family/personal obligations
+20	Own illness/injury, Child care problems, other personal obligations, maternity leave, or civic duty
+21	Child care problems, other personal obligation, maternity/paternity leave, or civic/military duty

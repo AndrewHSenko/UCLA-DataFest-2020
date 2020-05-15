@@ -1,0 +1,29 @@
+pcts_code	pcts_text
+00	N/A
+01	Percent of civilian noninstitutional population
+02	Percent of civilian noninstitutional population
+03	Percent of civilian labor force
+04	Percent of not in labor force
+05	Percent of employed within group
+06	Percent of total employed
+07	Percent of total unemployed
+08	Percent of unemployed within group
+11	Percent of total job seekers
+18	Percent of total job losers
+19	Percent of total job leavers
+20	Percent of total reentrants
+21	Percent of total new entrants
+24	Percent of employed in all agri industries
+25	Percent of employed in all nonagri industries
+26	Percent of at work in all nonagri industries
+27	Percent of at work in all agri industries
+33	Percent of employed by industry
+34	Percent of employed by occupation
+35	Percent of at work by industry
+36	Percent of at work by occupation
+38	Percent of total at work
+39	Percent of job losers on layoff
+40	Percent of job losers for other reasons
+46	Unemployed and discouraged workers as a percent of the labor force and discouraged workers
+47	Unemployed and marginally attached workers as a percent of the labor force and marg attached
+48	Unemployed and mrg attached and pt for econ reas as percent of labor force plus marg attached

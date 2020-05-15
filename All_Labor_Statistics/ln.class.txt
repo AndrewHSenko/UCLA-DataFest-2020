@@ -1,0 +1,19 @@
+class_code	class_text
+00	N/A
+01	Wage and salary workers
+02	Private wage and salary workers
+03	Government wage and salary workers
+04	Federal wage and salary workers
+05	State wage and salary workers
+06	Local wage and salary workers
+07	State and local wage and salary workers
+08	Self-employed workers, unincorporated
+09	Unpaid family workers
+10	All classes of workers (1, 8, and 9)
+11	Nonagriculture government, self employed, and unpaid family worker (3, 8, and 9 above)
+12	Self-employed unincorporated, and unpaid family workers (8 and 9)
+13	Wage and salary and self-employed workers ('paid' workers-- 1 and 8)
+14	Incorporated self-employed
+15	Other
+16	Wage and salary workers, excluding incorporated self employed
+17	Private wage and salary workers, excluding incorporated self employed

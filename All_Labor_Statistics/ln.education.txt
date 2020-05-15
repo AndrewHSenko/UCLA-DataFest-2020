@@ -1,0 +1,28 @@
+education_code	education_text
+00	All educational levels
+10	Some High School or High School Graduate
+11	Less than a High School diploma
+12	Less than 1 year of High School
+16	4 years of High School, no diploma
+19	High School graduates, no college
+20	Some college or associate degree
+21	Some college, no degree
+25	Associate degree
+26	Associate degree, occupational program
+27	Associate degree, academic program
+30	Less than a high school diploma (discontinued)
+31	High school graduates, no college (discontinued)
+32	Some college, no degree (discontinued)
+33	College graduates (discontinued)
+34	Associate degree (discontinued)
+35	Less than a bachelor's degree (discontinued)
+36	Some college or associate degree (discontinued)
+37	Bachelor's degree only (discontinued)
+38	Advanced degree (discontinued)
+39	Bachelor's degree and higher (discontinued)
+40	Bachelor's degree and higher
+41	Bachelor's degree only
+45	Advanced degree
+46	Master's degree
+47	Professional degree
+48	Doctoral degree

@@ -1,0 +1,25 @@
+look_code	look_text
+00	N/A
+01	Job losers and persons who completed temporary jobs
+02	Total on layoff
+03	Temporary layoff
+04	Indefinite layoff
+05	All other job losers
+06	Quit job (job leavers)
+07	Other reasons (than 1 and 6)
+08	Left school
+09	Want temporary work
+10	Other reasons (than 8 and 9) left last job
+12	Personal, family, or school
+13	Ill health, disability
+14	Retirement, old age
+15	Seasonal job completed
+16	Slack work or business conditions
+17	Temporary job completed (nonseasonal)
+18	Unsatisfactory work arrangements
+19	Reasons (other than 12,13,14,15,16,17,and 18)
+20	Total economic reasons (15, 16, and 17)
+21	Other reasons (other than 12,13,14,15,16,and 17)
+31	Aggregated total reasons
+40	Job losers (new code for 1994)
+41	Permanent job losers

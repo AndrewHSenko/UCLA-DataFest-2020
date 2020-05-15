@@ -1,0 +1,6 @@
+cert_code	cert_text
+00	N/A
+01	Without a certification or license
+02	With a certification or license
+03	With a certification, but no license
+04	With a license

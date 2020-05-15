@@ -1,0 +1,18 @@
+orig_code	orig_text
+00	All Origins
+01	Hispanic or Latino
+02	Mexican
+05	Mexican (discontinued)
+06	Puerto Rican
+07	Cuban
+08	Central or South American (discontinued)
+09	Other Hispanic or Latino (discontinued)
+10	Non-Hispanic
+15	Central or South American
+20	Central American
+21	Salvadoran
+25	Other Central American (excludes Salvadoran)
+30	South American
+40	Other Hispanic or Latino
+41	Dominican
+45	Other Hispanic or Latino (excludes Dominican)

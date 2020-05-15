@@ -1,0 +1,21 @@
+tdat_code	tdat_text
+00	Number in thousands
+01	Percent or rate
+02	Number of weeks
+03	Number of weeks
+04	Number in hours
+05	Number in hours
+06	Average years
+07	Median years
+08	Average number of methods used for seeking jobs
+09	Total methods used for seeking jobs
+10	hours at work worked
+11	hours at work offered
+12	hours at work lost
+13	Aggregate-hours at work
+14	Aggregate-weeks
+15	Workers multiplied by ave duration of unemployment
+16	Number of families
+17	Man hours at work imputed
+18	Total man hours at work
+19	Total man hours at work lost

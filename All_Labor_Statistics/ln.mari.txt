@@ -1,0 +1,11 @@
+mari_code	mari_text
+00	All marital statuses
+01	Single (never married)
+02	Married, spouse present
+03	Civilian spouse present
+05	Married, spouse absent (separated,)
+06	Widowed
+07	Divorced
+08	Widowed and divorced (6 and 7 above)
+09	Other marital status (widowed, divorced, or separated - 5, 6, and 7 above)
+10	Married (codes 2 and 5)

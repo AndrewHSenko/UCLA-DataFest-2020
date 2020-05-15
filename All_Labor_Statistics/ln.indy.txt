@@ -1,0 +1,337 @@
+indy_code	indy_text
+0000	All Industries
+0169	Agriculture, forestry, fishing, and hunting
+0170	Crop production
+0180	Animal production and aquaculture
+0190	Forestry, except logging
+0270	Logging
+0280	Fishing, hunting, and trapping
+0290	Support activities for agriculture and forestry
+0368	Nonagriculture industries
+0369	Mining, quarrying, and oil and gas extraction
+0370	Oil and gas extraction
+0380	Coal mining
+0390	Metal ore mining
+0470	Nonmetallic mineral mining and quarrying
+0480	Not specified type of mining
+0490	Support activities for mining
+0569	Utilities
+0570	Electric power generation, transmission, and distribution
+0580	Natural gas distribution
+0590	Electric and gas, and other combinations
+0670	Water, steam, air-conditioning, and irrigation systems
+0680	Sewage treatment facilities
+0690	Not specified utilities
+0770	Construction
+1068	Nondurable goods manufacturing
+1069	Food manufacturing
+1070	Animal food, grain, and oilseed milling
+1080	Sugar and confectionery products
+1090	Fruit and vegetable preserving and specialty food manufacturing
+1170	Dairy product manufacturing
+1180	Animal slaughtering and processing
+1190	Retail bakeries
+1270	Bakeries and tortilla manufacturing, except retail bakeries
+1280	Seafood and other miscellaneous foods, n.e.c.
+1290	Not specified food industries
+1369	Beverage and tobacco products
+1370	Beverage manufacturing
+1390	Tobacco manufacturing
+1469	Textiles, apparel, and leather
+1470	Fiber, yarn, and thread mills
+1480	Fabric mills, except knitting
+1490	Textile and fabric finishing and coating mills
+1570	Carpet and rug mills
+1590	Textile product mills, except carpets and rugs
+1670	Knitting mills
+1680	Cut and sew apparel manufacturing
+1690	Apparel accessories and other apparel manufacturing
+1770	Footwear manufacturing
+1790	Leather tanning and products, except footwear manufacturing
+1869	Paper and printing
+1870	Pulp, paper, and paperboard mills
+1880	Paperboard container manufacturing
+1890	Miscellaneous paper and pulp products
+1990	Printing and related support activities
+2069	Petroleum and coal products
+2070	Petroleum refining
+2090	Miscellaneous petroleum and coal products
+2169	Chemicals
+2170	Resin, synthetic rubber and fibers, and filaments manufacturing
+2180	Agricultural chemical manufacturing
+2190	Pharmaceutical and medicine manufacturing
+2270	Paint, coating, and adhesive manufacturing
+2280	Soap, cleaning compound, and cosmetics manufacturing
+2290	Industrial and miscellaneous chemicals
+2369	Plastics and rubber products
+2370	Plastics product manufacturing
+2380	Tire manufacturing
+2390	Rubber product, except tire, manufacturing
+2467	Manufacturing (1070-3990)
+2468	Durable goods manufacturing
+2469	Nonmetallic mineral products
+2470	Pottery, ceramics, and related product manufacturing
+2480	Clay building material and refractories manufacturing
+2490	Glass and glass product manufacturing
+2570	Cement, concrete, lime, and gypsum product manufacturing
+2590	Miscellaneous nonmetallic mineral product manufacturing
+2669	Primary metals and fabricated metal  products
+2670	Iron and steel mills and steel product manufacturing
+2680	Aluminum production and processing
+2690	Nonferrous metal, except aluminum, production and processing
+2770	Foundries
+2780	Metal forgings and stampings
+2790	Cutlery and hand tool manufacturing
+2870	Structural metals and tank and shipping container manufacturing
+2880	Machine shops; turned product; screw, nut, and bolt manufacturing
+2890	Coating, engraving, heat treating and allied activities
+2970	Ordnance
+2980	Miscellaneous fabricated metal product manufacturing
+2990	Not specified metal industries
+3069	Machinery manufacturing
+3070	Agricultural implement manufacturing
+3080	Construction, mining, and oil field machinery manufacturing
+3090	Commercial and service industry machinery manufacturing
+3095	Commercial and service industry machinery manufacturing
+3170	Metalworking machinery manufacturing
+3180	Engine, turbine, and power transmission equipment manufacturing
+3190	Machinery manufacturing, n.e.c.
+3290	Not specified machinery manufacturing
+3359	Computers and electronic products
+3360	Computer and peripheral equipment manufacturing
+3365	Computer and peripheral equipment manufacturing
+3370	Communications, audio, and video equipment manufacturing
+3380	Navigational, measuring, electromedical, and control instruments manufacturing
+3390	Electronic component and product manufacturing, n.e.c.
+3469	Electrical equipment and appliances
+3470	Household appliance manufacturing
+3490	Electrical lighting, equipment, and supplies manufacturing, n.e.c.
+3569	Transportation equipment
+3570	Motor vehicles and motor vehicle equipment manufacturing
+3580	Aircraft and parts manufacturing
+3590	Aerospace product and parts manufacturing
+3670	Railroad rolling stock manufacturing
+3680	Ship and boat building
+3690	Other transportation equipment manufacturing
+3769	Wood products
+3770	Sawmills and wood preservation
+3780	Veneer, plywood, and engineered wood products
+3790	Prefabricated wood buildings and mobile homes
+3870	Miscellaneous wood products
+3875	Miscellaneous wood products
+3890	Furniture and related product manufacturing
+3895	Furniture and related product manufacturing
+3959	Miscellaneous manufacturing (3960/3990)
+3960	Medical equipment and supplies manufacturing
+3970	Toys, amusement, and sporting goods manufacturing
+3980	Miscellaneous manufacturing, n.e.c.
+3990	Not specified manufacturing industries
+4067	Wholesale and retail trade
+4068	Wholesale trade
+4069	Durable goods
+4070	Motor vehicle and motor vehicle parts and supplies merchant wholesalers
+4080	Furniture and home furnishing, merchant wholesalers
+4090	Lumber and other construction materials, merchant wholesalers
+4170	Professional and commercial equipment and supplies, merchant wholesalers
+4180	Metals and minerals, except petroleum, merchant wholesalers
+4190	Electrical goods, merchant wholesalers
+4195	Household appliances and electrical and electronic goods merchant wholesalers
+4260	Hardware, plumbing and heating equipment, and supplies, merchant wholesalers
+4265	Hardware, plumbing and heating equipment, and supplies merchant wholesalers
+4270	Machinery, equipment, and supplies, merchant wholesalers
+4280	Recyclable material, merchant wholesalers
+4290	Miscellaneous durable goods, merchant wholesalers
+4369	Nondurable goods
+4370	Paper and paper products, merchant wholesalers
+4380	Drugs, sundries, and chemical and allied products, merchant wholesalers
+4390	Apparel, piece goods, and notions merchant wholesalers
+4470	Grocery and related product merchant wholesalers
+4480	Farm product raw material merchant wholesalers
+4490	Petroleum and petroleum products, merchant wholesalers
+4560	Alcoholic beverages, merchant wholesalers
+4570	Farm supplies, merchant wholesalers
+4580	Miscellaneous nondurable goods, merchant wholesalers
+4585	Wholesale electronic markets, agents and brokers
+4590	Not specified wholesale trade
+4669	Retail trade
+4670	Automobile dealers
+4680	Other motor vehicle dealers
+4690	Automotive parts, accessories, and tire stores
+4770	Furniture and home furnishings stores
+4780	Household appliance stores
+4790	Radio, TV, and computer stores
+4795	Electronics stores
+4870	Building material and supplies dealers
+4880	Hardware stores
+4890	Lawn and garden equipment and supplies stores
+4970	Grocery stores
+4980	Specialty food stores
+4990	Beer, wine, and liquor stores
+5070	Pharmacies and drug stores
+5080	Health and personal care, except drug, stores
+5090	Gasoline stations
+5170	Clothing and accessories, except shoe, stores
+5180	Shoe stores
+5190	Jewelry, luggage, and leather goods stores
+5270	Sporting goods, camera, and hobby and toy stores
+5275	Sporting goods, and hobby and toy stores
+5280	Sewing, needlework, and piece goods stores
+5290	Music stores
+5295	Musical instrument and supplies stores
+5370	Book stores and news dealers
+5380	Department stores and discount stores
+5390	Miscellaneous general merchandise stores
+5470	Retail florists
+5480	Office supplies and stationery stores
+5490	Used merchandise stores
+5570	Gift, novelty, and souvenir shops
+5580	Miscellaneous retail stores
+5590	Electronic shopping
+5591	Electronic auctions
+5592	Mail-order houses
+5670	Vending machine operators
+5680	Fuel dealers
+5690	Other direct selling establishments
+5790	Not specified retail trade
+6068	Transportation and utilities
+6069	Transportation and warehousing
+6070	Air transportation
+6080	Rail transportation
+6090	Water transportation
+6170	Truck transportation
+6180	Bus service and urban transit
+6190	Taxi and limousine service
+6270	Pipeline transportation
+6280	Scenic and sightseeing transportation
+6290	Services incidental to transportation
+6370	Postal Service
+6380	Couriers and messengers
+6390	Warehousing and storage
+6468	Information
+6469	Publishing, except Internet
+6470	Newspaper publishers
+6480	Periodical, book, and directory publishers
+6490	Software publishers
+6569	Motion pictures and sound recording industries
+6570	Motion pictures and video industries
+6590	Sound recording industries
+6670	Radio and television broadcasting and cable subscription programming
+6672	Internet publishing and broadcasting and web search portals
+6675	Internet publishing and broadcasting
+6679	Telecommunications
+6680	Wired telecommunications carriers
+6690	Other telecommunications services
+6691	Internet service providers and data processing services
+6692	Internet service providers
+6695	Data processing, hosting, and related services
+6769	Other information services
+6770	Libraries and archives
+6780	Other information services
+6867	Financial activities
+6868	Finance and insurance
+6869	Finance
+6870	Banking and related activities
+6880	Savings institutions, including credit unions
+6890	Nondepository credit and related activities
+6970	Securities, commodities, funds, trusts, and other financial investments
+6990	Insurance carriers and related activities
+7069	Real estate and rental and leasing
+7070	Real estate
+7079	Rental and leasing services
+7080	Automotive equipment rental and leasing
+7170	Video tape and disk rental
+7180	Other consumer goods rental
+7190	Commercial, industrial, and other intangible assets rental and leasing
+7268	Professional and business services
+7269	Professional and technical services
+7270	Legal services
+7280	Accounting, tax preparation, bookkeeping, and payroll services
+7290	Architectural, engineering, and related services
+7370	Specialized design services
+7380	Computer systems design and related services
+7390	Management, scientific, and technical consulting services
+7460	Scientific research and development services
+7470	Advertising, public relations, and related services
+7480	Veterinary services
+7490	Other professional, scientific, and technical services
+7569	Management, administrative, and waste services
+7570	Management of companies and enterprises
+7579	Administrative and support services
+7580	Employment services
+7590	Business support services
+7670	Travel arrangement and reservation services
+7680	Investigation and security services
+7690	Services to buildings and dwellings
+7770	Landscaping services
+7780	Other administrative and other support services
+7790	Waste management and remediation services
+7858	Education and health services
+7859	Educational services
+7860	Elementary and secondary schools
+7870	Colleges, universities, and professional schools, including junior colleges
+7880	Business, technical, and trade schools and training
+7890	Other schools, instruction, and educational services
+7968	Health care and social assistance
+7969	Health service, except hospitals
+7970	Offices of physicians
+7980	Offices of dentists
+7990	Offices of chiropractors
+8070	Offices of optometrists
+8080	Offices of other health practitioners
+8090	Outpatient care centers
+8170	Home health care services
+8180	Other health care services
+8190	Hospitals
+8270	Nursing care facilities (skilled nursing facilities)
+8290	Residential care facilities, except skilled nursing facilities
+8369	Social assistance
+8370	Individual and family services
+8380	Community food and housing, and emergency services
+8390	Vocational rehabilitation services
+8470	Child day care services
+8558	Leisure and hospitality
+8559	Arts, entertainment, and recreation
+8560	Performing arts, spectator sports, and related industries
+8570	Museums, art galleries, historical sites, and similar institutions
+8580	Bowling centers
+8590	Other amusement, gambling, and recreation industries
+8658	Accommodation and food services
+8659	Accommodation
+8660	Traveler accommodation
+8670	Recreational vehicle parks and camps, and rooming and boarding houses
+8679	Food services and drinking places
+8680	Restaurants and other food services
+8690	Drinking places, alcoholic beverages
+8767	Other services
+8768	Other services, except private households
+8769	Repair and maintenance
+8770	Automotive repair and maintenance
+8780	Car washes
+8790	Electronic and precision equipment repair and maintenance
+8870	Commercial and industrial machinery and equipment repair and maintenance
+8880	Personal and household goods repair and maintenance
+8890	Footwear and leather goods repair
+8969	Personal and laundry services
+8970	Barber shops
+8980	Beauty salons
+8990	Nail salons and other personal care services
+9070	Dry cleaning and laundry services
+9080	Funeral homes, cemeteries, and crematories
+9090	Other personal services
+9159	Membership associations and organizations
+9160	Religious organizations
+9170	Civic, social, advocacy organizations, and grant making and giving services
+9180	Labor unions
+9190	Business, professional, political, and similar organizations
+9290	Other services, private households
+9369	Public administration
+9370	Executive offices and legislative bodies
+9380	Public finance activities
+9390	Other general government and support
+9470	Justice, public order, and safety activities
+9480	Administration of human resource programs
+9490	Administration of environmental quality and housing programs
+9570	Administration of economic programs and space research
+9590	National security and international affairs
+9600	All nonagricultural industries except private households
+9890	Armed Forces (last job)

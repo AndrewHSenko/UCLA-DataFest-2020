@@ -1,0 +1,13 @@
+wkst_code	wkst_text
+00	N/A
+01	At work
+02	At work part time
+03	At work part time, usually work full time
+04	At work part time, usually work part time
+05	At work on full time schedules  (only use to distinguish >35 hrs)
+07	With a job not at work
+08	Usually work full-time schedules (with a job not at work)
+09	Usually work part-time schedules (with a job not at work)
+19	At work full time
+20	At work 35+ hours, usually work part time
+21	At work 35+ hours, usually work full time

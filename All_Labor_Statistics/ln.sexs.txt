@@ -1,0 +1,4 @@
+sexs_code	sexs_text
+0	Both Sexes
+1	Men
+2	Women
